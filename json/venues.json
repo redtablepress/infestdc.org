@@ -1,0 +1,193 @@
+[
+ {
+    "name": "Ft. Loko",
+    "location": "2628 6th St NE (RI Ave metro)",
+    "hideloc": true,
+    "dayDeets": [{"day": "Thursday", "time": "7PM - 12AM",
+                 "description": "Live video & Comedy w/Hosts: Robot Butt, plus 5 bands!"}],
+    "buttonDeal": "free admission",
+    "fbookLink": "https://www.facebook.com/events/1443794775888842",
+    "donation": "",
+    "badgepickup": true
+  },
+  {
+    "name": "Hole in the Sky",
+    "location": "2110 5th St NE (alley between 4th & 5th)",
+    "hideloc": true,
+    "dayDeets": [{"day": "Friday", "time": "7PM - 11PM",
+                 "description": "ARTSHOW_08: ART, BRO: A showcase of artworks that can only be described with 'that's art, bro' after it.  FOOD from Milk Cult.  TEA SELECTIONS from Mike O'Brien.  ART BY LITERALLY dozens of artists!"}],
+    "fbookLink": "https://www.facebook.com/events/283072775198430/",
+    "buttonDeal": "free admission",
+    "donation": "",
+    "badgepickup": true
+  },
+  {
+    "name": "2B Studios",
+    "location": "411 New York Ave NE (The same building as Union Arts)",
+    "dayDeets": [{"day": "Friday", "time": "8PM - 11PM",
+                 "description": "Incarcerated Masses: Artists Respond to America’s Prison Problem --  CURATED BY: Graham Boyle"}],
+    "fbookLink": "https://www.facebook.com/events/1459547867635137/",
+    "buttonDeal": "",
+    "donation": "",
+    "badgepickup": false
+  },
+  {
+    "name": "Union Arts",
+    "location": "411 New York Ave NE (The same building as 2B Studios)",
+    "dayDeets": [{"day": "Friday", "time": "7PM - 11PM",
+                 "description": "A Night of New Music - a Trio of Trios W/ SPECIAL TRIPLE-TRIO END SESSION"}],
+    "fbookLink": "https://www.facebook.com/events/742110182493839",
+    "buttonDeal": "",
+    "donation": "",
+    "badgepickup": false
+  },
+  {
+    "name": "The Dougout",
+    "location": "1498 Douglas St NE",
+    "hideloc": true,
+    "dayDeets": [{"day": "Friday", "time": "8 PM - 12 AM",
+                 "description": ""}],
+    "fbookLink": "https://www.facebook.com/events/727096697354590/",
+    "buttonDeal": "free admission",
+    "donation": "",
+    "badgepickup": true
+  },
+ {
+    "name": "Bardo Brewpub",
+    "location": "1200 Bladensburg Rd NE",
+    "dayDeets": [{"day": "Friday", "time": "11PM - 3AM",
+                 "description": "Afterparty Presented by DC Bike Party"}],
+    "fbookLink": "https://www.facebook.com/events/336826539801124/",
+    "buttonDeal": "free admission",
+    "donation": "",
+    "badgepickup": false
+  },
+  {
+    "name": "The Beehive",
+    "location": "1327 Delafield Place NW",
+    "hideloc": true,
+    "dayDeets": [{"day": "Saturday", "time": "10:30 AM - 3:30 PM",
+                 "description": "Brunch from 10:30 AM to 1PM, brought to you by the great Pat Walsh, accompanied by drone music and followed by experimental/creative/indie rock. Start and end times will not budge. Everyone has to be out by 3:30. Thanks!"}],
+    "fbookLink": "https://www.facebook.com/events/1431275107161078",
+    "buttonDeal": "$2 omelet",
+    "donation": "5 + $5 for brunch",
+    "badgepickup": false
+  },
+  {
+    "name": "Alleycat Checkpoints",
+    "location": "Registration @ Malcolm X Park (aka: Meridian Hill Park)",
+    "dayDeets": [{"day": "Saturday", "time": "1PM - 6PM",
+                 "description": "Alleycat Bike Event - DC Bike Party presents this checkpoint-based event, with destinations engaging riders in the city's many spaces propagating independent culture: DIY skateparks, art trails, house venues, etc. Ride if you’re casually trying your first alleycat, or straight mashing."}],
+    "fbookLink": "https://www.facebook.com/events/253648614826463",
+    "daypass": "Free Registration",
+    "donation": "",
+    "badgepickup": false
+  },
+  {
+    "name": "Communiverse",
+    "location": "1406 Webster St NW",
+    "hideloc": true,
+    "dayDeets": [{"day": "Saturday", "time": "12:00 PM - 5:00 PM",
+                 "description": "SPACE IS THE PLACE: A day of A day of space exploration from the domestic to the cosmos. Experimental, interactive, improvisational dance and music, burlesque, projections, and sound installations.'"}],
+    "fbookLink": "https://www.facebook.com/events/524881077612139/",
+    "buttonDeal": "entry into mystery raffle",
+    "donation": "",
+    "badgepickup": false
+  },
+  {
+    "name": "Ezra Mae's",
+    "location": "1711 Kenyon St NW",
+    "hideloc": true,
+    "dayDeets": [{"day": "Saturday", "time": "12:00 PM - 5:00 PM",
+                 "description": "Celebrating some of the area's best acts with LIVE performances, and of course we'll jam out to a few tunes. This is not only a celebration of DC’s DIY scene, but also the one year anniversary of our first house show! So join us for grooving tunes, great people and a whole lotta whiskey."}],
+    "fbookLink": "https://www.facebook.com/events/516119641822976/",
+    "buttonDeal": "A Special Summer Treat",
+    "donation": "",
+    "badgepickup": false
+  },
+  {
+    "name": "Jamjar",
+    "location": "1719 Lamont St NW",
+    "hideloc": true,
+    "dayDeets": [{"day": "Saturday", "time": "NOON - 5:00 PM",
+                 "description": "An afternoon of indie rock goodness"}],
+    "fbookLink": "https://www.facebook.com/events/491844650960134",
+    "buttonDeal": "TBD",
+    "donation": "follow your heart",
+    "badgepickup": false
+  },
+  {
+    "name": "Bathtub Republic",
+    "location": "3119 11th St NW",
+    "hideloc": true,
+    "dayDeets": [{"day": "Saturday", "time": "2:00 PM - 5:00 PM",
+                 "description": "Party till you puke"}],
+    "fbookLink": "https://www.facebook.com/events/1509386492607780/",
+    "buttonDeal": "",
+    "donation": "",
+    "badgepickup": false
+  },
+  {
+    "name": "St. Stephens Church",
+    "location": "1525 Newton St NW",
+    "dayDeets": [{"day": "Saturday", "time": "NOON - 11:00 PM",
+                 "description": "OFFICIAL IN IT TOGETHER MAINSTAGE: Music, Tabling, Classes, and Lectures, followed by the Main Band Lineup"}],
+    "fbookLink": "https://www.facebook.com/events/1518770308342664",
+    "buttonDeal": "",
+    "daypass": "Ticketed Event - Day Pass Required",
+    "donation": "",
+    "badgepickup": false
+  },  
+  {
+    "name": "The Pinch",
+    "location": "3548 14th St NW",
+    "dayDeets": [{"day": "Saturday", "time": "11:00 PM - 3:00 AM",
+                 "description": "OFFICIAL IN IT TOGETHER AFTERSHOW (will not start until the main show ends)"}],
+    "fbookLink": "https://www.facebook.com/events/1518770308342664",
+    "buttonDeal": "",
+    "donation": 5,
+    "badgepickup": false
+  },
+  {
+    "name": "The Paperhaus",
+    "location": "4912 3rd Street NW",
+    "hideloc": true,
+    "dayDeets": [{"day": "Sunday", "time": "NOON - 7:00 PM",
+                 "description": "Day show"}],
+    "fbookLink": "https://www.facebook.com/events/789719937728719/",
+    "buttonDeal": "",
+    "donation": "",
+    "badgepickup": false
+  },
+  {
+    "name": "Crack Rock Creek Church",
+    "location": "19 Rock Creek Church Rd NW",
+    "hideloc": true,
+    "dayDeets": [{"day": "Sunday", "time": "3:00 PM - 8:00 PM",
+                 "description": ""}],
+    "fbookLink": "https://www.facebook.com/events/742181049179914",
+    "buttonDeal": "",
+    "donation": "",
+    "badgepickup": false
+  },
+  {
+    "name": "Bridge Spot",
+    "location": "at Garfield Park in SE",
+    "dayDeets": [{"day": "Sunday", "time": "4:00 PM - 9:00 PM",
+                 "description": "In It Together Fest and The DC Wheels are hosting a skate demo and day of fun, food and celebration. Grab your board and push down to SE to celebrate independent art culture with some of the best skaters in the city. Featuring a 'ramen jump' by Ryan Troy Ford Memorial Performance Art Collective!"}],
+    "fbookLink": "https://www.facebook.com/events/561834013943488",
+    "buttonDeal": "free admission",
+    "donation": "",
+    "badgepickup": false
+  },
+  {
+    "name": "Furthermore",
+    "location": "52 O St NW | 202B",
+    "dayDeets": [{"day": "Sunday", "time": "6:00 PM - 9:00 PM",
+                 "description": "Local Music on VHS Circa 1989"}],
+    "fbookLink": "https://www.facebook.com/events/789719937728719/",
+    "buttonDeal": "",
+    "donation": "",
+    "badgepickup": false
+  }
+]

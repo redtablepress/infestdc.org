@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html ng-app="infestLineup">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=.85, maximum-scale=1, user-scalable=0"/>
+    <link rel="stylesheet" type="text/css" href="stylesheets/base.css" />
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="stylesheets/mp3-player-button.css" />
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.3.0-beta.2/angular.min.js"></script>
+    <script type="text/javascript" src="js/app2.js"></script>
+    <script type="text/javascript" src="//cdn.jsdelivr.net/soundmanager2/2.97a.20130512/soundmanager2-jsmin.js"></script>
+    <script type="text/javascript" src="js/mp3-player-button.js"></script>
+    <link rel="shortcut icon" href="images/favicon.png">
+  </head>
+  <style>
+   div.translucent::after {
+      content: "";
+                background-color:#111;
+                opacity:0.85;
+                filter:alpha(opacity=80); /* For IE8 and earlier */
+      top: 0;
+      left: 0;
+      bottom: 0;
+      right: 0;
+      position: absolute;
+      z-index: -1;  
+    }
+
+    body{
+       color:#EEE
+    }
+    h1, h2, h3, .h1, .h2, .h3{
+	font-family: "Georgia";
+	/*color:#59F;*/
+    }
+    li, select, input {
+    	color:#222;
+    }
+    .span{
+        font-size:200%;
+    }
+    a { color: #428bca }
+    a:visited:hover{ color: #206ab9 }
+    a:visited{ color: #428bca }
+    .center-text 	{ text-align: center; }
+    .left-text		{ text-align: left; }
+    .arrow		{ text-align: left;  z-index: 3;}
+    .reg-size		{ font-size: 98%;}
+    .yellow-text	{ color: #FFFFCC;}
+    
+  </style>
+  <body ng-controller="LineupController as lineup">
+     <div class="container">
+<div class="arrow"><a href="http://www.infestdc.org"><img src="images/backbutton_invert.png" alt="back" height="60" width="60"></a></div>
+
+	<div class="col-md-10 col-md-offset-1 center-text translucent">
+           <header>
+	      <h1>IN IT TOGETHER FEST LINEUP</h1>
+           </header>
+           <div class="row">
+ 	     <div class="col-xs-6">
+             <select ng-model="orderProp">
+               <option value="timestamp">View by Time</option>
+               <option value="venueName">View by Venue</option>
+             </select> 
+             </div>
+             <div class="col-xs-6">
+	     Search: <input placeholder="Filter by Anything" ng-model="query">
+	     </div>
+           </div>
+	   <br>
+  	   <p class="left-text">
+	   ({{(lineup.sets|filter:query).length}} events): white items = music events; 
+           <span class="left-text yellow-text">&nbsp; yellow items = alternative events</span> 
+ 	   </p>
+	   <div class="left-text" ng-show="orderProp=='timestamp'" ng-repeat="day in ['Thursday', 'Friday', 'Saturday', 'Sunday']" >
+	      <div ng-show="(lineup.sets|filter:query|matchDay:day).length>0">
+	 	<h2>
+	           <a ng-href="{{lineup.dayDeets[day].fbookLink}}">
+	 	     {{day}}
+                   </a>
+		</h2>
+	 	<p>{{lineup.dayDeets[day].description}}</p>
+	      </div>
+  	      <ul class="list-group left-text" ng-show="orderProp=='timestamp'">
+	         <li ng-class="lineup.getItemClass(set.data.isMusic)" ng-repeat="set in lineup.sets | orderBy:orderProp|filter:query|matchDay:day">
+		    <a class="sm2_button" ng-show="set.data.mp3 && set.data.mp3 != ''" ng-href="mp3s/{{set.data.mp3}}">mp3</a> 
+		    {{set.timestamp|date:'h:mm a'}} - {{set.endTimestamp|date:'h:mm a'}} <b> {{set.data.name}} </b> <em ng-show="set.data.state!=''">({{set.data.state}})</em> @ {{set.venueName}}
+                  <p>
+                  <span class="badge reg-size" ng-repeat="tag in set.data.descriptionTags">{{tag}} </span>
+		   <a ng-show="set.venueName=='St. Stephens Church'|| set.data.name=='Alleycat Results Announced at St. Stephens'" ng-href="http://infestdc.bigcartel.com/product/ticket">
+                           buy day pass</a>
+                  </p>
+		 </li>
+              </ul>
+           </div>
+	   <div class="left-text" ng-show="orderProp=='venueName'" ng-repeat="venue in lineup.venues" >
+	     <div ng-show="(lineup.sets|filter:query|filter:venue.name).length>0">
+               <h2><a ng-show="venue.fbookLink!=''" ng-href="{{venue.fbookLink}}"> {{venue.name}}</a></h2>
+               <h2 ng-show="venue.fbookLink==''">{{venue.name}}</h2>
+		<h6 ng-show="venue.location!=''&& !venue.hideloc"><p>{{venue.location}}</p></h6>
+		<h3><p>{{venue.dayDeets[0].day}}: {{venue.dayDeets[0].time}}</p></h3>
+		   <p>{{venue.dayDeets[0].description}}</p>	
+		   <p ng-show="venue.buttonDeal && venue.buttonDeal!=''">
+		      <a href="http://infestdc.bigcartel.com/product/in-it-together-badge">INFEST BADGE GETS YOU:<b> {{venue.buttonDeal}} </b></a>
+		   </p>
+		   <p ng-show="venue.daypass && venue.daypass!=''" ng-href="http://infestdc.bigcartel.com/product/ticket">
+		      <a href="http://infestdc.bigcartel.com/product/ticket">DAY PASS GETS YOU:<b> {{venue.daypass}} </b></a>
+		   </p>
+	           <p class="yellow-text center-text" ng-show="venue.badgepickup"> - official badge pickup location - </p>
+		<!--h6> <p>Suggested Donation for Admission: ${{venue.donation}}</p></h6--!>
+	     </div>
+              <ul class="list-group left-text">
+                 <li ng-class="lineup.getItemClass(set.data.isMusic)" ng-repeat="set in lineup.sets | orderBy:'timestamp'|filter:query|filter:venue.name">
+                  <a class="sm2_button" ng-show="set.data.mp3 && set.data.mp3 != ''" ng-href="mp3s/{{set.data.mp3}}">mp3</a>      
+		{{set.timestamp|date:'(EEE) h:mm a'|uppercase}} - {{set.endTimestamp|date:'h:mm a'}} :<b> {{set.data.name}} </b> <em ng-show="set.data.state!=''">({{set.data.state}})</em>
+                     <p>
+                        <span class="badge reg-size" ng-repeat="tag in set.data.descriptionTags">{{tag}} </span>
+			<a ng-show="set.venueName=='St. Stephens Church' || set.data.name=='Alleycat Results Announced at St. Stephens'" ng-href="http://infestdc.bigcartel.com/product/ticket">
+			   buy day pass</a>
+                     </p>
+                 </li>
+              </ul>
+           </div>
+     <div ng-show="query != '' ">*(Filtered by Query: {{query}})</div>
+
+        </div>
+     </div>
+  </body>
+</html>
+

@@ -1,0 +1,1164 @@
+[
+{
+"data": 
+{
+  "name": "Playback the Tape Presents: Local Music circa 1989",
+  "descriptionTags": ["vhs", "video", "film screening"],
+  "state": "",
+  "mp3": "",
+  "isMusic": "yellow"
+}
+,
+"venueName": "Furthermore",
+"time":{"day": "Sunday", "hour": 18, "min": 0},
+"duration": 180
+},
+{
+"data": 
+{
+  "name": "Knowledge Commons Presents: Mass Incarceration in America",
+  "descriptionTags": ["kcdc", "incarceration", "prisons", "class"],
+  "state": "",
+  "mp3": "",
+  "isMusic": "yellow"
+}
+,
+"venueName": "St. Stephens Church",
+"time":{"day": "Saturday", "hour": 14, "min": 15},
+"duration": 25
+},
+{
+"data": 
+{
+  "name": "Knowledge Commons Presents: Prisons, Profit, and Human Beings",
+  "descriptionTags": ["kcdc", "incarceration", "prisons", "class"],
+  "state": "",
+  "mp3": "",
+  "isMusic": "yellow"
+}
+,
+"venueName": "St. Stephens Church",
+"time":{"day": "Saturday", "hour": 15, "min": 0},
+"duration": 25
+},
+{
+"data": 
+{
+  "name": "Knowledge Commons Presents: Urban Foraging",
+  "descriptionTags": ["kcdc", "foraging", "class"],
+  "state": "",
+  "mp3": "",
+  "isMusic": "yellow"
+}
+,
+"venueName": "St. Stephens Church",
+"time":{"day": "Saturday", "hour": 19, "min": 0},
+"duration": 30
+},
+{
+"data": 
+{
+  "name": "Skateboarding, Stunts, Food & Movies",
+  "descriptionTags": ["dc wheels", "food not bombs", "art under pressure", "dc vinyl headz", "ramen jump", "performance art", "video"],
+  "state": "",
+  "mp3": "",
+  "isMusic": "yellow"
+}
+,
+"venueName": "Bridge Spot",
+"time":{"day": "Sunday", "hour": 17, "min": 0},
+"duration": 240
+},
+{
+"data": 
+{
+  "name": "Ongoing Art: Habit Making and Habit Breaking dance performance, Composition for Flying Saucers sound installation, SPC WNDS & ASTRL DRPLTS sound installation",
+  "descriptionTags": ["cassettes", "found sound", "installation", "dance", "performance art", "improvisation", "art show"],
+  "state": "DC",
+  "mp3": "",
+  "isMusic": "yellow"
+}
+,
+"venueName": "Communiverse",
+"time":{"day": "Saturday", "hour": 12, "min": 0},
+"duration": 300
+},
+{
+"data": 
+{
+  "name": "Android Nectarine",
+  "descriptionTags": ["space conversations", "acid"],
+  "state": "DC",
+  "mp3": "",
+  "isMusic": "white"
+}
+,
+"venueName": "Communiverse",
+"time":{"day": "Saturday", "hour": 12, "min": 0},
+"duration": 25
+},
+{
+"data": 
+{
+  "name": "Mister Ma'am and Crimson Simone's Out of This World Burlesque",
+  "descriptionTags": ["burlesque", "feminist"],
+  "state": "DC",
+  "mp3": "",
+  "isMusic": "yellow"
+}
+,
+"venueName": "Communiverse",
+"time":{"day": "Saturday", "hour": 12, "min": 30},
+"duration": 20
+},
+{
+"data": 
+{
+  "name": "PLACE HOLD (Nancy Havlik Dance Performance Group)" ,
+  "descriptionTags": ["dance", "theater", "performance art"],
+  "state": "DC",
+  "mp3": "",
+  "isMusic": "yellow"
+}
+,
+"venueName": "Communiverse",
+"time":{"day": "Saturday", "hour": 14, "min": 0},
+"duration": 20
+},
+{
+"data": 
+{
+  "name": "Michael Hoffman: Space Farmer, Lunatic (slides and lecture)",
+  "descriptionTags": ["lecture", "nasa", "failed interplanetary agriculture", "class"],
+  "state": "DC",
+  "mp3": "",
+  "isMusic": "yellow"
+}
+,
+"venueName": "Communiverse",
+"time":{"day": "Saturday", "hour": 14, "min": 30},
+"duration": 20
+},
+{
+"data": 
+{
+  "name": "The Players (featuring Sebastian Rousseau)",
+  "descriptionTags": ["dance", "theater", "improvisation", "weird"],
+  "state": "DC",
+  "mp3": "",
+  "isMusic": "yellow"
+}
+,
+"venueName": "Communiverse",
+"time":{"day": "Saturday", "hour": 15, "min": 30},
+"duration": 20
+},
+{
+"data": 
+{
+  "name": "'The Ogre's Wife: Take Two': Dance performance by Dana Livermore",
+  "descriptionTags": ["dance"],
+  "state": "NC",
+  "mp3": "",
+  "isMusic": "yellow"
+}
+,
+"venueName": "Communiverse",
+"time":{"day": "Saturday", "hour": 16, "min": 0},
+"duration": 20
+},
+{
+"data": 
+{
+  "name": "Two Inch Astronaut",
+  "descriptionTags": ["rock", "exploding in sound", "post punk"],
+  "state": "MD",
+  "mp3": "Two Inch Astronaut - swol.mp3",
+  "isMusic": "white"
+}
+,
+"venueName": "St. Stephens Church",
+"time":{"day": "Saturday", "hour": 13, "min": 0},
+"duration": 30
+},
+{
+"data": 
+{
+  "name": "Brightside",
+  "descriptionTags": ["pop", "indie pop", "indie rock", "pittsburgh"],
+  "state": "PA",
+  "mp3": "Brightside - Now and Loud 1 Next Time, I'll Be Deadly Serious.mp3",
+  "isMusic": "white"
+}
+,
+"venueName": "St. Stephens Church",
+"time":{"day": "Saturday", "hour": 13, "min": 45},
+"duration": 30
+},
+{
+"data": 
+{
+  "name": "Cousin Brian",
+  "descriptionTags": ["college rock", "punk", "philly"],
+  "state": "PA",
+  "mp3": "Cousin Brian - First 1 Tired.mp3",
+  "isMusic": "white"
+}
+,
+"venueName": "St. Stephens Church",
+"time":{"day": "Saturday", "hour": 16, "min": 0},
+"duration": 30
+},
+{
+"data": 
+{
+  "name": "Born Without Bones",
+  "descriptionTags": ["pop punk", "rock", "indie rock", "milford"],
+  "state": "MA",
+  "mp3": "Born Without Bones - Rough Terrain.mp3",
+  "isMusic": "white"
+}
+,
+"venueName": "St. Stephens Church",
+"time":{"day": "Saturday", "hour": 15, "min": 15},
+"duration": 30
+},
+{
+"data": 
+{
+  "name": "Entropy",
+  "descriptionTags": ["punk", "punk rock", "hardcore"],
+  "state": "NY",
+  "mp3": "Entropy - Atriums & Exits.mp3",
+  "isMusic": "white"
+}
+,
+"venueName": "St. Stephens Church",
+"time":{"day": "Saturday", "hour": 16, "min": 0},
+"duration": 30
+},
+{
+"data": 
+{
+  "name": "Loud Boyz",
+  "descriptionTags": ["punk", "punk rock"],
+  "state": "DC",
+  "mp3": "",
+  "isMusic": "white"
+}
+,
+"venueName": "St. Stephens Church",
+"time":{"day": "Saturday", "hour": 19, "min": 15},
+"duration": 30
+},
+{
+"data": 
+{
+  "name": "The Public",
+  "descriptionTags": ["punk rock", "indie punk", "cleveland"],
+  "state": "OH",
+  "mp3": "The Public - Shibuya Crossing 1 Liquor Store.mp3",
+  "isMusic": "white"
+}
+,
+"venueName": "St. Stephens Church",
+"time":{"day": "Saturday", "hour": 17, "min": 30},
+"duration": 30
+},
+{
+"data": 
+{
+  "name": "Lecture #1: Positive Force/We are Family",
+  "descriptionTags": ["lecture", "social change", "charitable"],
+  "state": "",
+  "mp3": "",
+  "isMusic": "yellow"
+}
+,
+"venueName": "St. Stephens Church",
+"time":{"day": "Saturday", "hour": 18, "min": 0},
+"duration": 10
+},
+{
+"data": 
+{
+  "name": "Lecture #2: Casa Ruby",
+  "descriptionTags": ["lecture", "LGBT", "charitable"],
+  "state": "",
+  "mp3": "",
+  "isMusic": "yellow"
+}
+,
+"venueName": "St. Stephens Church",
+"time":{"day": "Saturday", "hour": 18, "min": 10},
+"duration": 10
+},
+{
+"data": 
+{
+  "name": "Lecture #3: Miriam's Kitchen/Way Home Campaign",
+  "descriptionTags": ["lecture", "homelessness", "charitable"],
+  "state": "",
+  "mp3": "",
+  "isMusic": "yellow"
+}
+,
+"venueName": "St. Stephens Church",
+"time":{"day": "Saturday", "hour": 18, "min": 20},
+"duration": 10
+},
+{
+"data": 
+{
+  "name": "Alleycat Results Announced at St. Stephens",
+  "descriptionTags": ["dc bike party", "bike scavenger hunt"],
+  "state": "",
+  "mp3": "",
+  "isMusic": "yellow"
+}
+,
+"venueName": "Alleycat Checkpoints",
+"time":{"day": "Saturday", "hour": 19, "min": 45},
+"duration": 10
+},
+{
+"data": 
+{
+  "name": "Meridian",
+  "descriptionTags": ["folk rock", "acoustic", "indie rock", "punk", "cleveland"],
+  "state": "OH",
+  "mp3": "Meridian - New Ways - Old Days.mp3",
+  "isMusic": "white"
+}
+,
+"venueName": "St. Stephens Church",
+"time":{"day": "Saturday", "hour": 18, "min": 30},
+"duration": 30
+},
+{
+"data": 
+{
+  "name": "Slow Animal",
+  "descriptionTags": ["punk", "rock", "pop", "philly"],
+  "state": "PA",
+  "mp3": "Slow Animal - The Other Side 1 The Other Side.mp3",
+  "isMusic": "white"
+}
+,
+"venueName": "St. Stephens Church",
+"time":{"day": "Saturday", "hour": 16, "min": 45},
+"duration": 30
+},
+{
+"data": 
+{
+  "name": "Hold Tight!",
+  "descriptionTags": ["pop punk", "punk", "richmond"],
+  "state": "VA",
+  "mp3": "Hold Tight! - Blizzard Of '96 1 A Cup, A Ship, A Speeder.mp3",
+  "isMusic": "white"
+}
+,
+"venueName": "St. Stephens Church",
+"time":{"day": "Saturday", "hour": 20, "min": 0},
+"duration": 30
+},
+{
+"data": 
+{
+  "name": "State Lines",
+  "descriptionTags": ["indie", "punk rock"],
+  "state": "NY",
+  "mp3": "",
+  "isMusic": "white"
+}
+,
+"venueName": "St. Stephens Church",
+"time":{"day": "Saturday", "hour": 20, "min": 45},
+"duration": 45
+},
+{
+"data": 
+{
+  "name": "The Effects",
+  "descriptionTags": ["alternative", "indie", "punk", "rock", "post-punk"],
+  "state": "DC",
+  "mp3": "",
+  "isMusic": "white"
+}
+,
+"venueName": "St. Stephens Church",
+"time":{"day": "Saturday", "hour": 21, "min": 45},
+"duration": 45
+},
+{
+"data": 
+{
+  "name": "Alleycat Registration at Malcolm X Park",
+  "descriptionTags": ["dc bike party", "bike scavenger hunt"],
+  "state": "",
+  "mp3": "",
+  "isMusic": "yellow"
+}
+,
+"venueName": "Alleycat Checkpoints",
+"time":{"day": "Saturday", "hour": 13, "min": 0},
+"duration": 60
+},
+{
+"data": 
+{
+  "name": "Alleycat Race",
+  "descriptionTags": ["dc bike party", "bike scavenger hunt"],
+  "state": "",
+  "mp3": "",
+  "isMusic": "yellow"
+}
+,
+"venueName": "Alleycat Checkpoints",
+"time":{"day": "Saturday", "hour": 14, "min": 0},
+"duration": 180
+},
+{
+"data": 
+{
+  "name": "Drone Brunch: Pat Walsh Cooks You Brunch",
+  "descriptionTags": ["omelets", "chicken and waffles", "food"],
+  "state": "DC",
+  "mp3": "",
+  "isMusic": "yellow"
+}
+,
+"venueName": "The Beehive",
+"time":{"day": "Saturday", "hour": "10", "min": 30},
+"duration": 150
+},
+{
+"data": 
+{
+  "name": "Layne Garett (Weed Tree)",
+  "descriptionTags": ["drone", "noise", "experimental"],
+  "state": "DC",
+  "mp3": "",
+  "isMusic": "white"
+}
+,
+"venueName": "The Beehive",
+"time":{"day": "Saturday", "hour": "11", "min": 10},
+"duration": 30
+},
+{
+"data": 
+{
+  "name": "Luke Stewart",
+  "descriptionTags": ["drone", "noise", "experimental"],
+  "state": "DC",
+  "mp3": "",
+  "isMusic": "white"
+}
+,
+"venueName": "The Beehive",
+"time":{"day": "Saturday", "hour": "11", "min": 50},
+"duration": 30
+},
+{
+"data": 
+{
+  "name": "Cross Eyed",
+  "descriptionTags": ["punk", "pop", "richmond"],
+  "state": "VA",
+  "mp3": "Cross Eyed - Lose Me.mp3",
+  "isMusic": "white"
+}
+,
+"venueName": "The Pinch",
+"time":{"day": "Saturday", "hour": 24, "min": 40},
+"duration": 30
+},
+{
+"data": 
+{
+  "name": "Growwing Pains",
+  "descriptionTags": ["garage punk", "anxiety pop", "punk rock"],
+  "state": "MI",
+  "mp3": "08_zoo.mp3",
+  "isMusic": "white"
+}
+,
+"venueName": "The Pinch",
+"time":{"day": "Saturday", "hour": "25", "min": 20},
+"duration": 30
+},
+{
+"data": 
+{
+  "name": "The Rememerables",
+  "descriptionTags": ["pop punk", "power punk", "punk rock"],
+  "state": "DC",
+  "mp3": "",
+  "isMusic": "white"
+}
+,
+"venueName": "The Pinch",
+"time":{"day": "Saturday", "hour": "24", "min": 0},
+"duration": 30
+},
+{
+"data": 
+{
+  "name": "The Boundary Stones",
+  "descriptionTags": ["acoustic", "folk", "blues", "lo-fi"],
+  "state": "DC",
+  "mp3": "The Boundary Stones - The Boundary Stones 1 Sean.mp3",
+  "isMusic": "white"
+}
+,
+"venueName": "Bardo Brewpub",
+"time":{"day": "Friday", "hour": "24", "min": 30},
+"duration": 30
+},
+{
+"data": 
+{
+  "name": "Finley Martin",
+  "descriptionTags": ["acoustic", "indie", "alt-country", "celtic"],
+  "state": "DC",
+  "mp3": "",
+  "isMusic": "white"
+}
+,
+"venueName": "Bardo Brewpub",
+"time":{"day": "Friday", "hour": "24", "min": 0},
+"duration":25
+},
+{
+"data": 
+{
+  "name": "Oust",
+  "descriptionTags": ["indie", "folk"],
+  "state": "DC",
+  "mp3": "Oust - The National Archives - 01 The Right Machine.mp3",
+  "isMusic": "white"
+}
+,
+"venueName": "Crack Rock Creek Church",
+"time":{"day": "Sunday", "hour": "15", "min": 0},
+"duration": 30
+},
+{
+"data": 
+{
+  "name": "Cesspool",
+  "descriptionTags": ["strange", "experimental"],
+  "state": "NY",
+  "mp3": "",
+  "isMusic": "white"
+}
+,
+"venueName": "Crack Rock Creek Church",
+"time":{"day": "Sunday", "hour": "15", "min": 30},
+"duration": 30
+},
+{
+"data": 
+{
+  "name": "Mannequin Pussy",
+  "descriptionTags": ["punk", "shitpunk"],
+  "state": "NY",
+  "mp3": "MANNEQUIN PUSSY - The Le Sigh Compilation 1 The Le Sigh (Theme Song).mp3",
+  "isMusic": "white"
+}
+,
+"venueName": "Crack Rock Creek Church",
+"time":{"day": "Sunday", "hour": "16", "min": 15},
+"duration": 30
+},
+{
+"data": 
+{
+  "name": "Sun Young",
+  "descriptionTags": ["rock", "experimental", "pop"],
+  "state": "MA",
+  "mp3": "Pinesugar mix 2.mp3",
+  "isMusic": "white"
+}
+,
+"venueName": "Crack Rock Creek Church",
+"time":{"day": "Sunday", "hour": "17", "min": 0},
+"duration": 30
+},
+{
+"data": 
+{
+  "name": "Shark Week",
+  "descriptionTags": ["rock n roll", "blues", "surf"],
+  "state": "DC",
+  "mp3": "02 If You Want Me To Stay (For A While).mp3",
+  "isMusic": "white"
+}
+,
+"venueName": "Crack Rock Creek Church",
+"time":{"day": "Sunday", "hour": "19", "min": 0},
+"duration": 45
+},
+{
+"data": 
+{
+  "name": "Crumms",
+  "descriptionTags": ["garage rock", "surf punk"],
+  "state": "DC",
+  "mp3": "CRUMMS - The Ride.mp3",
+  "isMusic": "white"
+}
+,
+"venueName": "Crack Rock Creek Church",
+"time":{"day": "Sunday", "hour": "17", "min": 45},
+"duration": 45
+},
+{
+"data": 
+{
+  "name": "Marian McLaughlin",
+  "descriptionTags": ["avant folk", "acoustic"],
+  "state": "MD",
+  "mp3": "DL Before You Leave.mp3",
+  "isMusic": "white"
+}
+,
+"venueName": "The Paperhaus",
+"time":{"day": "Sunday", "hour": 18, "min": 0},
+"duration": 30
+},
+{
+"data": 
+{
+  "name": "BRNDA",
+  "descriptionTags": ["post-punk", "parade punk", "indie rock"],
+  "state": "DC",
+  "mp3": "06 - ExtraHeads.mp3",
+  "isMusic": "white"
+}
+,
+"venueName": "The Paperhaus",
+"time":{"day": "Sunday", "hour": 15, "min": 0},
+"duration": 30
+},
+{
+"data": 
+{
+  "name": "Pree",
+  "descriptionTags": ["indie rock", "psych pop"],
+  "state": "DC",
+  "mp3": "01 Two Feet Shy 1.mp3",
+  "isMusic": "white"
+}
+,
+"venueName": "The Paperhaus",
+"time":{"day": "Sunday", "hour": 17, "min": 0},
+"duration": 30
+},
+{
+"data": 
+{
+  "name": "What Moon Things",
+  "descriptionTags": ["dreamo", "indie", "slow punk", "noise"],
+  "state": "NY",
+  "mp3": "What Moon Things - White Indian Ghost -Unfinished-.mp3",
+  "isMusic": "white"
+}
+,
+"venueName": "The Paperhaus",
+"time":{"day": "Sunday", "hour": 16, "min": 0},
+"duration": 30
+},
+{
+"data": 
+{
+  "name": "Meridian",
+  "descriptionTags": ["folk rock", "acoustic", "indie rock", "punk", "cleveland"],
+  "state": "OH",
+  "mp3": "Meridian - New Ways - Old Days.mp3",
+  "isMusic": "white"
+}
+,
+"venueName": "The Paperhaus",
+"time":{"day": "Sunday", "hour": 14, "min": 0},
+"duration": 30
+},
+{
+"data": 
+{
+  "name": "Pony Bones",
+  "descriptionTags": ["indie rock", "indie pop", "folk rock"],
+  "state": "DC",
+  "mp3": "Donk 12_8_13.mp3",
+  "isMusic": "white"
+}
+,
+"venueName": "The Paperhaus",
+"time":{"day": "Sunday", "hour": 13, "min": 0},
+"duration": 30
+},
+{
+"data": 
+{
+  "name": "Teen Mom",
+  "descriptionTags": ["fuzz pop", "beach", "indie rock"],
+  "state": "DC",
+  "mp3": "I'm In Love With His Dreams.mp3",
+  "isMusic": "white"
+}
+,
+"venueName": "Ezra Mae's",
+"time":{"day": "Saturday", "hour": 16, "min": 0},
+"duration": 45
+},
+{
+"data": 
+{
+  "name": "Ezra Mae & the Gypsy Moon",
+  "descriptionTags": ["psychedelic", "rock n roll", "garage rock", "gypsy"],
+  "state": "DC",
+  "mp3": "Ezra Mae and the Gypsy Moon - Blues Gonna Come LIVE.mp3",
+  "isMusic": "white"
+}
+,
+"venueName": "Ezra Mae's",
+"time":{"day": "Saturday", "hour": 15, "min": 0},
+"duration": 45
+},
+{
+"data": 
+{
+  "name": "Real Clothes",
+  "descriptionTags": ["indie", "alternative", "rock", "female vox", "folk pop"],
+  "state": "VA",
+  "mp3": "Real Clothes - Queen of Daisies.mp3",
+  "isMusic": "white"
+}
+,
+"venueName": "Ezra Mae's",
+"time":{"day": "Saturday", "hour": 13, "min": 0},
+"duration": 45
+},
+{
+"data": 
+{
+  "name": "Harmonic Blue",
+  "descriptionTags": ["blues", "r&b", "soul", "jazz", "alternative"],
+  "state": "DC",
+  "mp3": "Harmonic Blue - Silver Spoon.mp3",
+  "isMusic": "white"
+}
+,
+"venueName": "Ezra Mae's",
+"time":{"day": "Saturday", "hour": 14, "min": 0},
+"duration": 45
+},
+{
+"data": 
+{
+  "name": "Warm and Comfy",
+  "descriptionTags": ["experimental", "rock n roll", "dub", "electronica", "pop"],
+  "state": "MD",
+  "mp3": "",
+  "isMusic": "white"
+}
+,
+"venueName": "Bathtub Republic",
+"time":{"day": "Saturday", "hour":14 , "min": 0},
+"duration": 30
+},
+{
+"data": 
+{
+  "name": "It is rain in my face.",
+  "descriptionTags": ["electronic", "folk"],
+  "state": "NY",
+  "mp3": "It is rain in my face. - Jump On In.mp3",
+  "isMusic": "white"
+}
+,
+"venueName": "Bathtub Republic",
+"time":{"day": "Saturday", "hour": 14, "min": 45},
+"duration": 30
+},
+{
+"data": 
+{
+  "name": "The North Country",
+  "descriptionTags": ["indie", "psychedelic", "folk", "rock", "slam twang"],
+  "state": "DC",
+  "mp3": "The North Country - Sharing Our Alone.mp3",
+  "isMusic": "white"
+}
+,
+"venueName": "Bathtub Republic",
+"time":{"day": "Saturday", "hour": 15, "min": 30},
+"duration": 30
+},
+{
+"data": 
+{
+  "name": "Jebiotto",
+  "descriptionTags": ["tokyo", "new wave", "punk", "techno", "pop"],
+  "state": "JAPAN",
+  "mp3": "",
+  "isMusic": "white"
+}
+,
+"venueName": "Bathtub Republic",
+"time":{"day": "Saturday", "hour": 16, "min": 15},
+"duration": 30
+},
+{
+"data": 
+{
+  "name": "Artshow_08: ART, BRO: A showcase of artworks, by dozens of artists, that can only be described with 'that's art, bro' after it",
+  "descriptionTags": ["art show", "food: milk cult", "hits", "tea"],
+  "state": "DC",
+  "mp3": "",
+  "isMusic": "yellow"
+}
+,
+"venueName": "Hole in the Sky",
+"time":{"day": "Friday", "hour":19 , "min": 0},
+"duration": 240
+},
+{
+"data": 
+{
+  "name": "Incarcerated Masses: Artists Respond to America's Prison Problem",
+  "descriptionTags": ["art show", "live music"],
+  "state": "DC",
+  "mp3": "",
+  "isMusic": "yellow"
+}
+,
+"venueName": "2B Studios",
+"time":{"day": "Friday", "hour":20 , "min": 0},
+"duration": 180
+},
+{
+"data": 
+{
+  "name": "Ogranix Trio",
+  "descriptionTags": ["jazz", "avant-garde", "experimental", "improvisation", "noise"],
+  "state": "MD",
+  "mp3": "",
+  "isMusic": "white"
+}
+,
+"venueName": "Union Arts",
+"time":{"day": "Friday", "hour": 21, "min": 30},
+"duration": 45
+},
+{
+"data": 
+{
+  "name": "Trio OOO",
+  "descriptionTags": ["jazz", "avant-garde", "experimental", "improvisation", "noise"],
+  "state": "DC",
+  "mp3": "",
+  "isMusic": "white"
+}
+,
+"venueName": "Union Arts",
+"time":{"day": "Friday", "hour": 22 , "min": 30},
+"duration": 45
+},
+{
+"data": 
+{
+  "name": "Garrett/Scheible/Tucker Trio",
+  "descriptionTags": ["jazz", "avant-garde", "experimental", "improvisation", "noise"],
+  "state": "DC",
+  "mp3": "",
+  "isMusic": "white"
+}
+,
+"venueName": "Union Arts",
+"time":{"day": "Friday", "hour": 20 , "min": 30},
+"duration": 45
+},
+{
+"data": 
+{
+  "name": "Trio of Trios",
+  "descriptionTags": ["jazz", "avant-garde", "experimental", "improvisation", "noise"],
+  "state": "DC",
+  "mp3": "",
+  "isMusic": "white"
+}
+,
+"venueName": "Union Arts",
+"time":{"day": "Friday", "hour": 23 , "min": 30},
+"duration": 45
+},
+{
+"data": 
+{
+  "name": "Jail Solidarity",
+  "descriptionTags": ["punk", "noise-rock", "post-hardcore", "sludge"],
+  "state": "DC",
+  "mp3": "Jail Solidarity - Any Space, Whatever 1 Indifference.mp3",
+  "isMusic": "white"
+}
+,
+"venueName": "The Dougout",
+"time":{"day": "Friday", "hour": 21, "min": 0},
+"duration": 30
+},
+{
+"data": 
+{
+  "name": "Two Inch Astronaut",
+  "descriptionTags": ["rock", "exploding in sound", "post punk"],
+  "state": "MD",
+  "mp3": "Two Inch Astronaut - swol.mp3",
+  "isMusic": "white"
+}
+,
+"venueName": "The Dougout",
+"time":{"day": "Friday", "hour": 21, "min": 40},
+"duration": 30
+},
+{
+"data": 
+{
+  "name": "The Public",
+  "descriptionTags": ["punk rock", "indie punk", "cleveland"],
+  "state": "OH",
+  "mp3": "The Public - Shibuya Crossing 1 Liquor Store.mp3",
+  "isMusic": "white"
+}
+,
+"venueName": "The Dougout",
+"time":{"day": "Friday", "hour":22 , "min": 20},
+"duration": 30
+},
+{
+"data": 
+{
+  "name": "Pile",
+  "descriptionTags": ["post punk", "exploding in sound", "post hardcore", "indie rock", "boston"],
+  "state": "MA",
+  "mp3": "Pile - big web.mp3",
+  "isMusic": "white"
+}
+,
+"venueName": "The Dougout",
+"time":{"day": "Friday", "hour":23 , "min": 0},
+"duration": 30
+},
+{
+"data": 
+{
+  "name": "Vundabar",
+  "descriptionTags": ["indie rock", "rock", "dance surf"],
+  "state": "MA",
+  "mp3": "Vundabar - Greenland.mp3",
+  "isMusic": "white"
+}
+,
+"venueName": "Ft. Loko",
+"time":{"day": "Thursday", "hour": 21, "min": 10},
+"duration": 25
+},
+{
+"data": 
+{
+  "name": "Paperhaus",
+  "descriptionTags": ["indie rock", "psychedelic"],
+  "state": "DC",
+  "mp3": "Paperhaus - Lo Hi Lo 1 All Through the Night.mp3",
+  "isMusic": "white"
+}
+,
+"venueName": "Ft. Loko",
+"time":{"day": "Thursday", "hour": 21, "min": 45},
+"duration": 25
+},
+{
+"data": 
+{
+  "name": "Acme",
+  "descriptionTags": ["pop", "indie rock", "r&b"],
+  "state": "DC",
+  "mp3": "_Master_che_CA_GIRLS_2_Sage_Audio.mp3",
+  "isMusic": "white"
+}
+,
+"venueName": "Ft. Loko",
+"time":{"day": "Thursday", "hour": 22, "min": 20},
+"duration": 25
+},
+{
+"data": 
+{
+  "name": "Spoonboy",
+  "descriptionTags": ["pop punk", "acoustic", "folk punk"],
+  "state": "DC",
+  "mp3": "",
+  "isMusic": "white"
+}
+,
+"venueName": "Ft. Loko",
+"time":{"day": "Thursday", "hour": 22, "min": 55},
+"duration": 25
+},
+{
+"data": 
+{
+  "name": "Wanted Man",
+  "descriptionTags": ["indie rock", "rock n roll"],
+  "state": "DC",
+  "mp3": "Wanted Man - You've Got It All.mp3",
+  "isMusic": "white"
+}
+,
+"venueName": "Ft. Loko",
+"time":{"day": "Thursday", "hour": 20, "min": 35},
+"duration": 25
+},
+{
+"data": 
+{
+  "name": "Live Video & Comedy Presented by Robot Butt",
+  "descriptionTags": ["comedy", "robot butt"],
+  "state": "DC",
+  "mp3": "Kipp_ep2.mp3",
+  "isMusic": "yellow"
+}
+,
+"venueName": "Ft. Loko",
+"time":{"day": "Thursday", "hour": 20, "min": 0},
+"duration": 30
+},
+{
+"data": 
+{
+  "name": "The Bowlegged Gorilla",
+  "descriptionTags": ["experimental", "drone", "beatbox", "acoustic", "fingerstyle guitar"],
+  "state": "MD",
+  "mp3": "",
+  "isMusic": "white"
+}
+,
+"venueName": "The Beehive",
+"time":{"day": "Saturday", "hour": 12, "min": 30},
+"duration": 30
+},
+{
+"data": 
+{
+  "name": "Night Mom",
+  "descriptionTags": ["experimental", "rock", "psychedelic", "boogie", "rattlesnake-rock"],
+  "state": "RI",
+  "mp3": "Domino.mp3",
+  "isMusic": "white"
+}
+,
+"venueName": "The Beehive",
+"time":{"day": "Saturday", "hour": 13, "min": 15},
+"duration": 30
+},
+{
+"data": 
+{
+  "name": "Sleepy Kitty",
+  "descriptionTags": ["indie rock", "loops", "garage rock", "melodic"],
+  "state": "MO/IL",
+  "mp3": "Side A - Don't You Start.mp3",
+  "isMusic": "white"
+}
+,
+"venueName": "The Beehive",
+"time":{"day": "Saturday", "hour": 14, "min": 0},
+"duration": 30
+},
+{
+"data": 
+{
+  "name": "Br'er",
+  "descriptionTags": ["ethereal", "noise", "pop"],
+  "state": "DC",
+  "mp3": "Br'er - Dozen Dream.mp3",
+  "isMusic": "white"
+}
+,
+"venueName": "The Beehive",
+"time":{"day": "Saturday", "hour": 14, "min": 45},
+"duration": 35
+},
+{
+"data": 
+{
+  "name": "Ryan Little and Matt Cohen",
+  "descriptionTags": ["drone", "noise", "experimental"],
+  "state": "DC",
+  "mp3": "",
+  "isMusic": "white"
+}
+,
+"venueName": "The Beehive",
+"time":{"day": "Saturday", "hour": 10, "min": 30},
+"duration": 30
+},
+{
+"data": 
+{
+  "name": "The Adventures of the Silver Spaceman",
+  "descriptionTags": ["americana", "psychedelic", "indie rock"],
+  "state": "NJ",
+  "mp3": "01 Don't Know What I'm Looking For.mp3",
+  "isMusic": "white"
+}
+,
+"venueName": "Jamjar",
+"time":{"day": "Saturday", "hour": 13, "min": 0},
+"duration": 40
+},
+{
+"data": 
+{
+  "name": "Chimes",
+  "descriptionTags": ["slackgaze", "psych", "punk"],
+  "state": "NY/NJ",
+  "mp3": "",
+  "isMusic": "white"
+}
+,
+"venueName": "Jamjar",
+"time":{"day": "Saturday", "hour": 14, "min": 0},
+"duration": 40
+},
+{
+"data": 
+{
+  "name": "Haybaby",
+  "descriptionTags": ["indie rock", "post grunge", "intense. all the tension"],
+  "state": "NY",
+  "mp3": "My Mother Tells Me.mp3",
+  "isMusic": "white"
+}
+,
+"venueName": "Jamjar",
+"time":{"day": "Saturday", "hour": 15, "min": 0},
+"duration": 40
+},
+{
+"data": 
+{
+  "name": "Baby Bry Bry & The Apologists",
+  "descriptionTags": ["indie rock", "punk", "pop", "loud", "chill"],
+  "state": "DC",
+  "mp3": "Baby Bry Bry - Proof.mp3",
+  "isMusic": "white"
+}
+,
+"venueName": "Jamjar",
+"time":{"day": "Saturday", "hour": 16, "min": 0},
+"duration": 40
+}
+]
