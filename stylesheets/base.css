@@ -57,8 +57,8 @@
     		-webkit-background-size: cover;
     		-moz-background-size: cover;
     		-o-background-size: cover;
-		font: 14px/21px "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
-		color: #000000;
+                font: 14px/21px Courier, sans-serif;
+                color: #fff;
 		-webkit-font-smoothing: antialiased; /* Fix for webkit rendering */
 		-webkit-text-size-adjust: 100%;
  }
@@ -68,7 +68,7 @@
 ================================================== */
 	h1, h2, h3, h4, h5, h6 {
 		color: #fff;
-		font-family: "Georgia", "Times New Roman", serif;
+                font-family: "Roboto Condensed", "Arial", sans-serif;
 		font-weight: normal;
 		text-align:center; }
 	h1 a, h2 a, h3 a, h4 a, h5 a, h6 a { font-weight: inherit; }
@@ -100,8 +100,8 @@
 
 /* #Links
 ================================================== */
-	a, a:visited { color: #333; text-decoration: underline; outline: 0; }
-	a:hover, a:focus { color: #000; }
+        a, a:visited { color: #aaa; text-decoration: underline; outline: 0; }
+        a:hover, a:focus { color: #ccc; }
 	p a, p a:visited { line-height: inherit; }
 
 
